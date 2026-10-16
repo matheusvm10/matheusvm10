@@ -2,7 +2,7 @@
 
 👨‍💻 **Estudante de Desenvolvimento de Sistemas no SENAI** | **Entusiasta de Java, POO & Clean Code**
 
-Atualmente estou a aprender e a desenvolver as minhas competências em desenvolvimento de software. Este perfil reúne o meu portfólio prático de estudos focado nos pilares da **Programação Orientada a Objetos (POO)** em Java, aplicando encapsulamento, herança, polimorfismo, interfaces e boas práticas de código limpo.
+Atualmente estou aprendendo e a desenvolver as minhas competências em desenvolvimento de software. Este perfil reúne o meu portfólio prático de estudos focado nos pilares da **Programação Orientada a Objetos (POO)** em Java, aplicando encapsulamento, herança, polimorfismo, interfaces e boas práticas de código limpo.
 
 ---
 
