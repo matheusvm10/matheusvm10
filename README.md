@@ -2,7 +2,7 @@
 
 **Desenvolvedor Java | POO & Clean Code Enthusiast**
 
-Estou a construir um portfólio prático focado nos pilares da **Programação Orientada a Objetos (POO)** em Java, aplicando encapsulamento, herança, polimorfismo, interfaces e boas práticas de código limpo.
+Estou construindo um portfólio prático focado nos pilares da **Programação Orientada a Objetos (POO)** em Java, aplicando encapsulamento, herança, polimorfismo, interfaces e boas práticas de código limpo.
 
 ---
 
