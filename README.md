@@ -7,7 +7,7 @@ Atualmente estou aprendendo e a desenvolver as minhas competências em desenvolv
 ---
 
 ## Tecnologias & Ferramentas
-- **Formação:** Técnico em Desenvolvimento de Sistemas — SENAI
+- **Formação:** Técnico em Desenvolvimento de Sistemas – SENAI
 - **Linguagem principal:** Java
 - **Conceitos em prática:** POO, Encapsulamento, Herança, Polimorfismo, Interfaces, Clean Code
 - **Ferramentas:** Git, GitHub, IntelliJ IDEA
@@ -18,19 +18,20 @@ Atualmente estou aprendendo e a desenvolver as minhas competências em desenvolv
 
 ### 🟢 Fundamentos & Encapsulamento
 - 📦 **[Java-poo-produto](https://github.com/matheusvm10/Java-poo-produto):** Encapsulamento, atributos privados e validações em setters.
-- 🏦 **[Java-poo-conta-bancaria](https://github.com/matheusvm10/Java-poo-conta-bancaria):** Gestão de saldo, depósitos, levantamentos e regras de negócio.
+- 💳 **[Java-poo-conta-bancaria](https://github.com/matheusvm10/Java-poo-conta-bancaria):** Gestão de saldo, depósitos, levantamentos e regras de negócio.
 - 🚗 **[Java-poo-veiculo](https://github.com/matheusvm10/Java-poo-veiculo):** Controlo de estado de objetos (ligar/desligar, acelerar/travar).
 - 📐 **[Java-poo-formas-geometricas](https://github.com/matheusvm10/Java-poo-formas-geometricas):** Modelagem de figuras geométricas e cálculos.
 - 📚 **[Java-poo-cadastro-livro](https://github.com/matheusvm10/Java-poo-cadastro-livro):** Cadastro e encapsulamento de entidades.
 
 ### 🟡 Herança & Polimorfismo
-- 👤 **[Java-poo-pessoa-aluno-heranca](https://github.com/matheusvm10/Java-poo-pessoa-aluno-heranca):** Herança com `extends`, reutilização com `super` e sobrescrita de métodos.
-- 🐾 **[Java-poo-animais-heranca](https://github.com/matheusvm10/Java-poo-animais-heranca):** Hierarquia de classes e polimorfismo com arrays de superclasse.
+- 🧑‍🎓 **[Java-poo-pessoa-aluno-heranca](https://github.com/matheusvm10/Java-poo-pessoa-aluno-heranca):** Herança com `extends`, reutilização com `super` e sobrescrita de métodos.
+- 🐶 **[Java-poo-animais-heranca](https://github.com/matheusvm10/Java-poo-animais-heranca):** Hierarquia de classes e polimorfismo com arrays de superclasse.
+- 💳 **[FormaPagamento](https://github.com/matheusvm10/FormaPagamento):** Processamento de pagamentos com classe abstrata, polimorfismo e sobrescrita de métodos.
 
 ### 🔵 Interfaces & Abstração
 - 🔌 **[Java-poo-dispositivos-ligaveis-interface](https://github.com/matheusvm10/Java-poo-dispositivos-ligaveis-interface):** Definição de contratos com `interface` e execução polimórfica.
 
 ---
 
-📫 **Contacto / Redes:**
+💼 **Contacto / Redes:**
 - **GitHub:** [matheusvm10](https://github.com/matheusvm10)
